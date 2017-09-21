@@ -1,0 +1,9 @@
+Building BrxcCoin
+
+See doc/readme-qt.rst for instructions on building BrxcCoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of BrxcCoin.
+
+See doc/build-*.txt for instructions on building brxccoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of BrxcCoin.
